@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Herman Ho</h1>
-<h3 align="center">A passionate application architect and full stack developer from HK</h3>
+<h3 align="center">A passionate project manager, application architect and full stack developer from HK</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
