@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Herman Ho</h1>
-<h3 align="center">A passionate project manager, application architect and full stack developer Hongkonger</h3>
+<h3 align="center">An innovative developer with over 10 years works experience in software development. Experienced in leading project team, system development on cloud (Azure, AWS), microservice, AI (Computer Vision), full stack and mobile app. Hongkonger</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/herman-ho-85a4a611b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="herman-ho-85a4a611b" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/herman0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="herman-ho-85a4a611b" height="30" width="40" /></a>
 <a href="https://codesandbox.com/hermanho" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="hermanho" height="30" width="40" /></a>
 </p>
 
