@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Herman Ho</h1>
-<h3 align="center">An innovative developer with over 10 years works experience in software development. Experienced in leading project team, system development on cloud (Azure, AWS), microservice, AI (Computer Vision), full stack and mobile app. A Hongkonger</h3>
+<h3 align="center">Innovative engineer with 13+ years in software engineering and project management. Experienced in leading teams on cloud web apps (Azure/AWS), microservices, computer vision, and mobile apps.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
